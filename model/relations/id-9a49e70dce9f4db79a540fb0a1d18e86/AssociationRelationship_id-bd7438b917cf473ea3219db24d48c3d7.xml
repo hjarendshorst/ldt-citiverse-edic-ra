@@ -1,0 +1,30 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="conforms to"
+    id="id-bd7438b917cf473ea3219db24d48c3d7">
+  <properties
+      key="ilabs.origin"
+      value="iLabs 3DxVERSE / LDT4SSC (v11 contribution, Issue #7)"/>
+  <properties
+      key="ilabs.model"
+      value="v11-edic-contribution"/>
+  <properties
+      key="ilabs.contribution.issue"
+      value="Geonovum/ldt-citiverse-edic-ra#7"/>
+  <properties
+      key="ilabs.mapping.status"
+      value="verify"/>
+  <properties
+      key="ilabs.contribution.row"
+      value="§3 row 3"/>
+  <properties
+      key="ilabs.archimate.note"
+      value="Brief §3 says 'realizes MIM6 Contract'. ArchiMate 3.2 / Archi 5.9.0 permit only Access or Association from ApplicationComponent to Contract — Realization is NOT legal. Demoted to a named Association, the weakest legal claim. The modelling lead decides whether to keep, drop, or re-express this via a Capability."/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-89aaa6ed2e0f419fb55352808c0526fe.xml#id-89aaa6ed2e0f419fb55352808c0526fe"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-983aae6efb9f464aa2b3892827ede284.xml#id-983aae6efb9f464aa2b3892827ede284"/>
+</archimate:AssociationRelationship>

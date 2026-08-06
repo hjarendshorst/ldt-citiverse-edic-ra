@@ -1,0 +1,26 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-963cd2f507f34fb082b7cfe688ebfec5">
+  <properties
+      key="ilabs.origin"
+      value="iLabs 3DxVERSE / LDT4SSC (v11 contribution, Issue #7)"/>
+  <properties
+      key="ilabs.model"
+      value="v11-edic-contribution"/>
+  <properties
+      key="ilabs.contribution.issue"
+      value="Geonovum/ldt-citiverse-edic-ra#7"/>
+  <properties
+      key="ilabs.mapping.status"
+      value="verify"/>
+  <properties
+      key="ilabs.contribution.row"
+      value="§3 row 5"/>
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-83c381da374e48dd9cbf144eda6f4b40.xml#id-83c381da374e48dd9cbf144eda6f4b40"/>
+  <target
+      xsi:type="archimate:Capability"
+      href="Capability_id-39794687173646328978d5e239b16e87.xml#id-39794687173646328978d5e239b16e87"/>
+</archimate:RealizationRelationship>

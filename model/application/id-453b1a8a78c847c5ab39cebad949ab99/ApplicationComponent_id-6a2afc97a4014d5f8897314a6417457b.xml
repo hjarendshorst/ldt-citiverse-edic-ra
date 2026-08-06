@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iLabs Keycloak Identity Broker"
+    id="id-6a2afc97a4014d5f8897314a6417457b"
+    documentation="OIDC/OAuth2 identity broker with OpenID4VC issuer/verifier roles. iLabs implementation of EDIC Tool 5 and the Authenticatie service.">
+  <properties
+      key="ilabs.origin"
+      value="iLabs 3DxVERSE / LDT4SSC (v11 contribution, Issue #7)"/>
+  <properties
+      key="ilabs.model"
+      value="v11-edic-contribution"/>
+  <properties
+      key="ilabs.contribution.issue"
+      value="Geonovum/ldt-citiverse-edic-ra#7"/>
+  <properties
+      key="ilabs.mapping.status"
+      value="verified"/>
+  <properties
+      key="ilabs.evidence"
+      value="E4.2 mapping; identity/tool5 deployed. Re-confirmed against the source in E6.2 §5."/>
+  <properties
+      key="ilabs.rav9.ref"
+      value="id-c006747793664188965e76fd0bdbe637"/>
+  <properties
+      key="ilabs.rav9.model"
+      value="id-7245378a4d204953bfa8550ea4ead4f1"/>
+</archimate:ApplicationComponent>

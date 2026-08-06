@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iLabs FIDES Interoperability Test Bed"
+    id="id-89aaa6ed2e0f419fb55352808c0526fe"
+    documentation="itb.ilabs.ai — EC GITB test bed instance. Conformance validation service for the Trust capability and OID4VC credential flows.">
+  <properties
+      key="ilabs.origin"
+      value="iLabs 3DxVERSE / LDT4SSC (v11 contribution, Issue #7)"/>
+  <properties
+      key="ilabs.model"
+      value="v11-edic-contribution"/>
+  <properties
+      key="ilabs.contribution.issue"
+      value="Geonovum/ldt-citiverse-edic-ra#7"/>
+  <properties
+      key="ilabs.mapping.status"
+      value="verify"/>
+  <properties
+      key="ilabs.evidence"
+      value="Gate B live at itb.ilabs.ai (evidence-adjacent, not a mapping proof). OID4VC anchor present in both v8 and source (E6.2 §5 candidate)."/>
+  <properties
+      key="ilabs.rav9.ref"
+      value="id-5acca88262904e9cad9dd61402dcb894"/>
+  <properties
+      key="ilabs.rav9.model"
+      value="id-7245378a4d204953bfa8550ea4ead4f1"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,27 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iLabs AI Agent Orchestrator (LangGraph)"
+    id="id-669dc489eaae4365afd66166c146489f"
+    documentation="LangGraph-based agent orchestration over A2A and MCP. iLabs implementation of EDIC Tool 8 and the AI Service.">
+  <properties
+      key="ilabs.origin"
+      value="iLabs 3DxVERSE / LDT4SSC (v11 contribution, Issue #7)"/>
+  <properties
+      key="ilabs.model"
+      value="v11-edic-contribution"/>
+  <properties
+      key="ilabs.contribution.issue"
+      value="Geonovum/ldt-citiverse-edic-ra#7"/>
+  <properties
+      key="ilabs.mapping.status"
+      value="verify"/>
+  <properties
+      key="ilabs.evidence"
+      value="No new source evidence for the Tool 8 mapping — stays verify (E6.2 §5)."/>
+  <properties
+      key="ilabs.rav9.ref"
+      value="id-25cdb8a4c42b4f3bb4432f063c82f15b"/>
+  <properties
+      key="ilabs.rav9.model"
+      value="id-7245378a4d204953bfa8550ea4ead4f1"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,21 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iLabs DestinE Data Hook"
+    id="id-e5cfd746bcaf42a095e424e51b3cc652"
+    documentation="Ingest hook for Destination Earth Climate DT and Extremes DT (DPAD DSD-4184). Feeds the Dataservice with geospatial climate data.">
+  <properties
+      key="ilabs.origin"
+      value="iLabs 3DxVERSE / LDT4SSC (v11 contribution, Issue #7)"/>
+  <properties
+      key="ilabs.model"
+      value="v11-edic-contribution"/>
+  <properties
+      key="ilabs.contribution.issue"
+      value="Geonovum/ldt-citiverse-edic-ra#7"/>
+  <properties
+      key="ilabs.mapping.status"
+      value="verify"/>
+  <properties
+      key="ilabs.evidence"
+      value="DestinE ACCESS verified (DPAD DSD-4184); integration planned, not built. No RA v9 counterpart yet — no ilabs.rav9.ref."/>
+</archimate:ApplicationComponent>

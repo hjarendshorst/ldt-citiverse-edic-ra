@@ -1,0 +1,15 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="iLabs — 3DxVERSE/LDT4SSC contribution"
+    id="id-453b1a8a78c847c5ab39cebad949ab99"
+    documentation="iLabs 3DxVERSE / LDT4SSC contribution to the EDIC LDT Reference Architecture.&#xA;Additions only — nothing outside this folder is modified.&#xA;Offered as a pull request against Geonovum/ldt-citiverse-edic-ra, Issue #7 (&quot;LDT Toolbox as solution architecture&quot;).&#xA;Mapping confidence is carried per object in ilabs.mapping.status; nothing is asserted as `verified` without the modelling lead's confirmation.">
+  <properties
+      key="ilabs.origin"
+      value="iLabs 3DxVERSE / LDT4SSC (v11 contribution, Issue #7)"/>
+  <properties
+      key="ilabs.model"
+      value="v11-edic-contribution"/>
+  <properties
+      key="ilabs.contribution.issue"
+      value="Geonovum/ldt-citiverse-edic-ra#7"/>
+</archimate:Folder>
